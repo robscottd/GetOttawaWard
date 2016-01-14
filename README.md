@@ -18,7 +18,9 @@ getWard(long,lat,wp)
 ## Arguments
 
 long - Longitude of point
+
 lat  - Latitude of point
+
 wp   - SpatialPolygonsDataframe containing Ottawa ward polygons
 
 ## Value
