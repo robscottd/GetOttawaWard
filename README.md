@@ -1,4 +1,4 @@
-# Get Ottawa Ward
+# Get Ottawa Ward Name
 
 R function to get Ottawa ward name for a ward containing a provided long/lat point. If long/lat is not within Ottawa ward boundaries, an empty string is returned.  
 
