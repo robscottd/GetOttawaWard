@@ -30,3 +30,7 @@ Returns a string containing the name of the provided point's Ward if the point i
 ## Note
 
 Function converts the provided long/lat point to a Modified Tranverse Mercator, Zone 9 point.  This is the format for the shape file provided by the Ottawa Open Data website.  You need to have basic understanding of working with GIS shape files in R to use this function.
+
+## Example Function Calls
+
+At the bottom of the r code provided, there are 4 function calls to show you who the function works.  The first 3 calls are for points within the Ottawa ward boundaries.  the 4th call is for the Empire State Building and should return an empty string.
