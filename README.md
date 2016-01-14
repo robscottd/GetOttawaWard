@@ -33,4 +33,4 @@ Function converts the provided long/lat point to a Modified Tranverse Mercator, 
 
 ## Example Function Calls
 
-At the bottom of the r code provided, there are 4 function calls to show you who the function works.  The first 3 calls are for points within the Ottawa ward boundaries.  the 4th call is for the Empire State Building and should return an empty string.
+At the bottom of file getWard.R, there are 4 function calls to show you who the function works.  The first 3 calls are for points within the Ottawa ward boundaries.  the 4th call is for the Empire State Building and should return an empty string.
